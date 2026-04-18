@@ -1,0 +1,17 @@
+onnx
+# macOS has no onnxruntime-gpu wheel; use CPU runtime there.
+onnxruntime; platform_system == "Darwin"
+# Keep GPU runtime for CUDA-capable Linux/Windows environments.
+onnxruntime-gpu; platform_system != "Darwin"
+opencv-python
+numpy
+scikit-image
+matplotlib
+faiss-cpu
+fastapi
+uvicorn
+websockets
+python-multipart
+PyQt6
+asyncpg
+requests
