@@ -1,4 +1,4 @@
-# AI Viet Nam — Face Re-Identification System
+# Face Re-Identification System
 
 Hệ thống nhận diện khuôn mặt thời gian thực kết hợp **Desktop GUI**, **REST API**, **PostgreSQL** và **React Dashboard**.
 
@@ -47,8 +47,8 @@ Hệ thống nhận diện khuôn mặt thời gian thực kết hợp **Desktop
 ### 1. Clone repository
 
 ```bash
-git clone git@github.com:NguyenDinhTiem/face-reidentification.git
-cd face-reidentification
+git clone https://github.com/nguyenhuuloc0912/face_system
+cd face_system
 ```
 
 ### 2. Tải model weights

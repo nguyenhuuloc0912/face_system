@@ -15,7 +15,7 @@ function Sidebar() {
     return (
         <div className="sidebar">
             <div className="sidebar-logo">
-                <h1>🎯 AI VIET NAM</h1>
+                <h1>🎯 Face Reidentification</h1>
                 <span>Face Re-ID Dashboard</span>
             </div>
             <nav className="sidebar-nav">
